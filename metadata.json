@@ -1,0 +1,6 @@
+{
+  "name": "지구편 (Team Earth)",
+  "description": "기후변화 문제를 배우고 일상 속 작은 행동을 실천하며 지구 캐릭터를 성장시키는 게임형 기후행동 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for 지구편 (Team Earth) - Gamified Climate Action & Learning Web App. Covers 4 navigation tabs, 6 climate categories, 30 verified missions, 3-level learning & quizzes, XP/Level/Badge gamification, Web Audio sound effects, IndexedDB persistence with JSON backup, and responsive mobile-first UI.",
+  "updatedAt": "2026-10-19T10:40:38.749148724Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
